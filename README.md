@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0507-perfect-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0204-count-primes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0204-count-primes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
@@ -48,4 +51,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
