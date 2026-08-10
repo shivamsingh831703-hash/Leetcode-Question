@@ -76,8 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
+| [1859-sorting-the-sentence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1859-sorting-the-sentence) |
 ## String
 |  |
 | ------- |
+| [1859-sorting-the-sentence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1859-sorting-the-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
