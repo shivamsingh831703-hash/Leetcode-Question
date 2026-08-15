@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0204-count-primes) |
@@ -111,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
