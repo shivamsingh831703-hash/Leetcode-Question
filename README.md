@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0049-group-anagrams) |
+| [0162-find-peak-element](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
