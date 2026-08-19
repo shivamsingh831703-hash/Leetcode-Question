@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1768-merge-strings-alternately) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
