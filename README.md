@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1929-concatenation-of-array) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0496-next-greater-element-i) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
