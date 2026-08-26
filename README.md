@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
+| [2027-minimum-moves-to-convert-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2027-minimum-moves-to-convert-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bubble Sort
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
+| [2027-minimum-moves-to-convert-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2027-minimum-moves-to-convert-string) |
 ## Stack
 |  |
 | ------- |
