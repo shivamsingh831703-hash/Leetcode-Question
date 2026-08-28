@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0283-move-zeroes) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0205-isomorphic-strings) |
@@ -199,4 +201,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
