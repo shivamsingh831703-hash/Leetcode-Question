@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0496-next-greater-element-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0389-find-the-difference) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
