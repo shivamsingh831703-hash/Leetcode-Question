@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2027-minimum-moves-to-convert-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
