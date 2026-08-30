@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0496-next-greater-element-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3477-fruits-into-baskets-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Number Theory
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
 | ------- |
