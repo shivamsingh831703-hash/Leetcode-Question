@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1859-sorting-the-sentence) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2027-minimum-moves-to-convert-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2027-minimum-moves-to-convert-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
