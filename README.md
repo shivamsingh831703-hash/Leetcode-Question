@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3024-type-of-triangle](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3024-type-of-triangle) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3024-type-of-triangle](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3024-type-of-triangle) |
 | [3477-fruits-into-baskets-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Number Theory
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1859-sorting-the-sentence) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3024-type-of-triangle](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -241,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0389-find-the-difference) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
