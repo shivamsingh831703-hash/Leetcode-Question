@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3024-type-of-triangle) |
+| [3033-modify-the-matrix](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3033-modify-the-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Number Theory
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3024-type-of-triangle) |
+## Matrix
+|  |
+| ------- |
+| [3033-modify-the-matrix](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3033-modify-the-matrix) |
 <!---LeetCode Topics End-->
