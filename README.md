@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3033-modify-the-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3903-smallest-stable-index-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3033-modify-the-matrix](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3033-modify-the-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
