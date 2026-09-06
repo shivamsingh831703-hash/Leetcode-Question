@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0496-next-greater-element-i) |
 | [0598-range-addition-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -259,5 +260,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 | [3903-smallest-stable-index-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3903-smallest-stable-index-i) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
