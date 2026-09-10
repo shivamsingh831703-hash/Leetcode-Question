@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1768-merge-strings-alternately) |
 ## Floyd's Cycle Finding Algorithm
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1796-second-largest-digit-in-a-string) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [1652-defuse-the-bomb](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
