@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
