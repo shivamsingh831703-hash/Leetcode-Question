@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0633-sum-of-square-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1837-sum-of-digits-in-base-k](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1768-merge-strings-alternately) |
 ## Floyd's Cycle Finding Algorithm
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [3477-fruits-into-baskets-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3477-fruits-into-baskets-ii) |
