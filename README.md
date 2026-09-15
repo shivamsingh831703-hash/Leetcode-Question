@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0567-permutation-in-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0496-next-greater-element-i) |
 | [0598-range-addition-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0628-maximum-product-of-three-numbers) |
