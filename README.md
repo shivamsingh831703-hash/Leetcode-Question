@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0401-binary-watch) |
 ## Polygons
 |  |
 | ------- |
@@ -316,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0836-rectangle-overlap) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
