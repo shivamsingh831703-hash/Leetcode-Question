@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0303-range-sum-query-immutable) |
+| [0376-wiggle-subsequence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0376-wiggle-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0496-next-greater-element-i) |
 | [0598-range-addition-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0598-range-addition-ii) |
@@ -251,11 +252,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0376-wiggle-subsequence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0376-wiggle-subsequence) |
 | [0605-can-place-flowers](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0605-can-place-flowers) |
 | [1903-largest-odd-number-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2027-minimum-moves-to-convert-string) |
