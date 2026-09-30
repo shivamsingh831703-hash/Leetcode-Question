@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1768-merge-strings-alternately) |
+| [3794-reverse-string-prefix](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3794-reverse-string-prefix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3794-reverse-string-prefix) |
 ## Bubble Sort
 |  |
 | ------- |
