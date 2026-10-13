@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3033-modify-the-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3903-smallest-stable-index-i) |
 ## Number Theory
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3024-type-of-triangle) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/2027-minimum-moves-to-convert-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
