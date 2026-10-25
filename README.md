@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1652-defuse-the-bomb) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 | [3033-modify-the-matrix](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/3033-modify-the-matrix) |
 ## Prefix Sum
 |  |
@@ -361,12 +363,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0100-same-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
