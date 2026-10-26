@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -358,10 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0100-same-tree) |
 ## Union-Find
 |  |
