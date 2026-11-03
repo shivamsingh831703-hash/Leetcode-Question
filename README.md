@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0203-remove-linked-list-elements) |
 ## Tree
 |  |
 | ------- |
@@ -388,4 +389,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/shivamsingh831703-hash/Leetcode-Question/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
